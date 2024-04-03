@@ -1,0 +1,7 @@
+- Sau khi thầy/cô down về tiến hành giải nén file.
+- Sau khi giải nén thầy/cô tiến hành mở xamp lên và chọn start Apache và start MySQL 
+- Thầy/cô chọn vào Admin ở dòng MySQL 
+- Thầy/cô tạo một database mới tên traicay rồi sau đó quay trở lại thư mục vừa giải nén mở thư mục db lên sẽ thấy 1 file traicay.sql
+- Thầy cô chuột phải vào file traicay.sql rồi chọn mở với notepad
+- Thầy cô copy toàn bộ file rồi import vào database vừa mới tạo
+- Thầy cô vào thư mục source rồi copy toàn bộ thư mục webbanhoaqua vào htdoc trong xamp trong ổ C. 
